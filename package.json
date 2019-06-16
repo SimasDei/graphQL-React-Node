@@ -1,0 +1,22 @@
+{
+  "name": "graphql-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SimasDei/graphQL-React-Node.git"
+  },
+  "author": "Simas Dei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SimasDei/graphQL-React-Node/issues"
+  },
+  "homepage": "https://github.com/SimasDei/graphQL-React-Node#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
